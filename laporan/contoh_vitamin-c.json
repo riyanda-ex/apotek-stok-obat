@@ -1,0 +1,21 @@
+{
+  "nama_obat": "vitamin c",
+  "nama_obat_input": "Vitamin C",
+  "tanggal_cek": "11 November 2026 10:00",
+  "stok": 20,
+  "stok_minimal": 10,
+  "tanggal_expired": "2025-01-01",
+  "sisa_hari_expired": -314,
+  "is_expired": true,
+  "is_mau_expired": false,
+  "is_stok_habis": false,
+  "is_stok_menipis": false,
+  "masalah": ["EXPIRED 314 hari lalu (2025-01-01) - JANGAN DIJUAL"],
+  "saran": ["Pisahkan segera, karantina, musnahkan sesuai SOP. Jangan dijual / jangan dipakai."],
+  "saran_order_jumlah": 0,
+  "alasan_order": "Tidak usah order, stok lama expired - musnahkan dulu & cek penyebabnya.",
+  "status": "EXPIRED - JANGAN DIJUAL",
+  "skor_stok": 0,
+  "nilai_stok": 160000,
+  "disclaimer": "Alat bantu administrasi apotek, BUKAN pengganti keputusan apoteker. Obat expired wajib dimusnahkan sesuai SOP."
+}
