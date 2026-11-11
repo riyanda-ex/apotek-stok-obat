@@ -1,0 +1,21 @@
+{
+  "nama_obat": "paracetamol",
+  "nama_obat_input": "Paracetamol",
+  "tanggal_cek": "11 November 2026 10:00",
+  "stok": 50,
+  "stok_minimal": 10,
+  "tanggal_expired": "2027-06-30",
+  "sisa_hari_expired": 231,
+  "is_expired": false,
+  "is_mau_expired": false,
+  "is_stok_habis": false,
+  "is_stok_menipis": false,
+  "masalah": [],
+  "saran": [],
+  "saran_order_jumlah": 0,
+  "alasan_order": "Stok masih aman, belum perlu order.",
+  "status": "AMAN",
+  "skor_stok": 100,
+  "nilai_stok": 250000,
+  "disclaimer": "Alat bantu administrasi apotek, BUKAN pengganti keputusan apoteker. Obat expired wajib dimusnahkan sesuai SOP."
+}
