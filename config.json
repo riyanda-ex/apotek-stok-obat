@@ -1,0 +1,11 @@
+{
+  "batas_menipis_default": 10,
+  "batas_mau_expired_hari": 90,
+  "obat_wajib": [
+    "paracetamol",
+    "amoxicillin",
+    "oralit",
+    "omeprazole",
+    "cetirizine"
+  ]
+}
